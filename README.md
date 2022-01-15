@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @akunfreerandi
+- 👀 I’m interested in Back-End Developer
+- 🌱 I’m currently learning C#, Go, Javascript
+- 💞️ I’m looking to collaborate on my repo
+- 📫 How to reach me akunfreerandi@gmail.com
